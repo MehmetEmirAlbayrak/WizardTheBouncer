@@ -1,0 +1,4 @@
+repository "Ball game@Alorin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
